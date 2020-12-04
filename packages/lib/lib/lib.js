@@ -1,6 +1,6 @@
 "use strict";
 
 function greeting(name) {
-  return "Hello, " + name + " and good bye!";
+  return "Hello, " + name + "!";
 }
 module.exports = greeting;
