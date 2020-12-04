@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "lib": "^1.1.0"
-  }
+  },
+  "gitHead": "9c9360e14b40397fea5b5e3fcc5aa27a1f0fa1ef"
 }
