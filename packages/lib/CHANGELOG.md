@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/juditgreskovits/Lerna/compare/lib@1.2.0...lib@1.3.0) (2020-12-04)
+
+
+### Features
+
+* Name paclages correctly ([a427e44](https://github.com/juditgreskovits/Lerna/commit/a427e443f776102ac340c9118d586a29d324c70b))
+
+
+
+
+
 # [1.2.0](https://github.com/juditgreskovits/Lerna/compare/lib@1.1.0...lib@1.2.0) (2020-12-04)
 
 
