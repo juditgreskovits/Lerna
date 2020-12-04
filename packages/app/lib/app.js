@@ -1,5 +1,5 @@
 "use strict";
 
-const greeting = require("lib");
+const greeting = require("@juditgreskovits/lib");
 
 console.log(greeting("Judit"));
