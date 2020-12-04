@@ -1,6 +1,6 @@
 {
   "name": "@juditgreskovits/app",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "> TODO: description",
   "author": "Judit <judit@tray.io>",
   "homepage": "https://github.com/juditgreskovits/Lerna#readme",
@@ -25,7 +25,7 @@
     "url": "https://github.com/juditgreskovits/Lerna/issues"
   },
   "dependencies": {
-    "@juditgreskovits/lib": "^1.3.1"
+    "@juditgreskovits/lib": "^1.3.2"
   },
   "gitHead": "f5b1dd01e5a262978cc453da0d5813da73a14733"
 }
