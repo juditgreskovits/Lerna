@@ -1,0 +1,29 @@
+{
+  "name": "appp",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Judit <judit@tray.io>",
+  "homepage": "https://github.com/juditgreskovits/Lerna#readme",
+  "license": "ISC",
+  "main": "lib/appp.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juditgreskovits/Lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/juditgreskovits/Lerna/issues"
+  },
+  "dependencies": {
+    "lib": "^1.0.0"
+  }
+}
