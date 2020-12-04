@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/juditgreskovits/Lerna/compare/lib@1.1.0...lib@1.2.0) (2020-12-04)
+
+
+### Features
+
+* Say good bye too ([eb49ee7](https://github.com/juditgreskovits/Lerna/commit/eb49ee767c29cf736569730f79bc1e57d6f18b33))
+
+
+
+
+
 # 1.1.0 (2020-12-04)
 
 
