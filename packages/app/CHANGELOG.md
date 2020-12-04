@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/juditgreskovits/Lerna/compare/@juditgreskovits/app@1.3.0...@juditgreskovits/app@1.4.0) (2020-12-04)
+
+
+### Features
+
+* Just Hello ([671e4ee](https://github.com/juditgreskovits/Lerna/commit/671e4ee1dc5ac879bb10ab8676d346f07f312ba5))
+
+
+
+
+
 # 1.3.0 (2020-12-04)
 
 
